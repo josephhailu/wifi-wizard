@@ -1,7 +1,7 @@
 {
-  "name": "template-ts-vite",
+  "name": "wifi-wizard",
   "version": "1.1.0",
-  "description": "Excalibur TypeScript template for Vite",
+  "description": "Educational Game For Learning Wifi Interference",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -19,8 +19,8 @@
     "vite",
     "game-engine"
   ],
-  "author": "Erik Onarheim",
-  "license": "BSD-2-Clause",
+  "author": "Joseph Hailu",
+  "license": "M.I.T.",
   "bugs": {
     "url": "https://github.com/excaliburjs/template-ts-vite/issues"
   },
